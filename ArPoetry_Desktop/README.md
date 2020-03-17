@@ -1,19 +1,19 @@
-# Chedly (ANDROID)
+# ArPoetry (Desktop)
 ![Platforms](https://img.shields.io/badge/Supported%20platforms-ANDROID-BLUE.svg)
 
 # Menu View
 ![](View/Img/MainView.png)
 # Collection View
-![](View/Img/Chedly_Mobile.png)
+![](View/Img/ArPoetry_Reading.png)
 
 
-`Chedly` is a Android App for Management Animal vocalization.
+`Chedly` is a Software for Management poetry books.
 
 
 **Authors:**  *WalWalWalides*
 
 
-The Android App offers a new Way for better Management Animal vocalization.
+The Software offers a new Way for better Management Poetry books.
 `Chedly` is an excellent app for Animal Lovers that stores all your picutures and sounds in one place.
 
 - Name  
@@ -26,7 +26,7 @@ The Android App offers a new Way for better Management Animal vocalization.
     Entertainment 
     
 - Compatibility
-    Requires Up Android 8.0 . 
+    Requires Up windows10 . 
 
 - Languages
     English
@@ -44,15 +44,11 @@ The Android App offers a new Way for better Management Animal vocalization.
 
 Principal Software Benefits:
 
-      - Add new Animals.
-
-      - Store all pictures and sounds in one place.     
+      - Add new Books.
+   
       
       - Create a thumbnail.
 
-## Requirements
-
-The Android device requires at least API 26 (Android 8.0).
 
     
 
@@ -61,14 +57,14 @@ The Android device requires at least API 26 (Android 8.0).
 
 | Module | Name | 
 | --- | --- |
-|Chedly.apk|Management Animal vocalization(Android)|
+|ArPoetry_Setup.exe|Management Animal vocalization(Android)|
 
 
 ------
 
 ## To Install the Software:
 
-### Install App ( ANDROID ) 
+### Install App ( Desktop ) 
 
 Link : https://github.com/walwalwalides/Chedly/releases/download/V1.0.0/Chedly.apk
 
