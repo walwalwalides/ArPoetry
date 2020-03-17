@@ -20,7 +20,7 @@ The Software offers a new Way for better Management Poetry books.
   Chedly.apk
 
 - Size
-    16.1 MB
+    40 MB
 
 - Category
     Entertainment 
