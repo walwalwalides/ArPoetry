@@ -1,5 +1,5 @@
 # ArPoetry
-Management Animal Vocalization  | DESKTOP
+Collection of Arabic Poetry Books  | DESKTOP
 
 ![Platforms](https://img.shields.io/badge/Supported%20platforms-Win32%20and%20Win64-red.svg)
 
@@ -14,7 +14,7 @@ Management Animal Vocalization  | DESKTOP
 | File | Contents | 
 | --- | --- |
 | .gitignore | Git ignores the Files in this File |
-|[Chedly_Desktop](https://github.com/walwalwalides/ChedlyQuiz/tree/master/ArPoetry_Desktop)| Software Solution for Learning Animal voice.
+|[ArPoetry_Desktop](https://github.com/walwalwalides/ChedlyQuiz/tree/master/ArPoetry_Desktop)| Software Solution for Learning Animal voice.
 | README.md | The Readme for this Project|
 
 ------
