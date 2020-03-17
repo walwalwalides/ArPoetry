@@ -20,7 +20,7 @@ The Software offers a new Way for better Management Poetry books.
   Chedly.apk
 
 - Size
-    16.1 MB
+    40 MB
 
 - Category
     Entertainment 
@@ -44,10 +44,11 @@ The Software offers a new Way for better Management Poetry books.
 
 Principal Software Benefits:
 
-      - Add new Books.
-   
+      - Add new Books.   
       
       - Create a thumbnail.
+      
+      - Order poetries by country.
 
 
     
