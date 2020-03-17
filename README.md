@@ -14,7 +14,7 @@ Collection of Arabic Poetry Books  | DESKTOP
 | File | Contents | 
 | --- | --- |
 | .gitignore | Git ignores the Files in this File |
-|[ArPoetry_Desktop](https://github.com/walwalwalides/ChedlyQuiz/tree/master/ArPoetry_Desktop)| Software Solution for Learning Animal voice.
+|[ArPoetry_Desktop](https://github.com/walwalwalides/ArPoetry/tree/master/ArPoetry_Desktop)| Software Solution for Collecting Poetry.
 | README.md | The Readme for this Project|
 
 ------
