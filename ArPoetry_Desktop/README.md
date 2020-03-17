@@ -70,7 +70,7 @@ Link : https://github.com/walwalwalides/ArPoetry/releases/download/V1.0.0/ArPoet
 
 ### Demo
 How to read sounds 
-[Youtub Video] : 
+[Youtub Video] : https://www.youtube.com/watch?v=8ykRAamahQc
 
 # If You Want To Donate!
 
