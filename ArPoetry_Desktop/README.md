@@ -1,5 +1,5 @@
 # ArPoetry (Desktop)
-![Platforms](https://img.shields.io/badge/Supported%20platforms-ANDROID-BLUE.svg)
+![Platforms](https://img.shields.io/badge/Supported%20platforms-Win32%20and%20Win64-red.svg)
 
 # Menu View
 ![](View/Img/MainView.png)
@@ -7,14 +7,14 @@
 ![](View/Img/ArPoetry_Reading.png)
 
 
-`Chedly` is a Software for Management poetry books.
+`ArPoetry` is a Software for Management Poetry books.
 
 
 **Authors:**  *WalWalWalides*
 
 
 The Software offers a new Way for better Management Poetry books.
-`Chedly` is an excellent app for Animal Lovers that stores all your picutures and sounds in one place.
+`ArPoetry` is an excellent app for Arbic Poetry Lovers that stores all your books in one place.
 
 - Name  
   Chedly.apk
@@ -57,14 +57,14 @@ Principal Software Benefits:
 
 | Module | Name | 
 | --- | --- |
-|ArPoetry_Setup.exe|Management Animal vocalization(Android)|
+|ArPoetry_Setup.exe|Executable Setup For ArPoetry|
 
 
 ------
 
 ## To Install the Software:
 
-### Install App ( Desktop ) 
+### Install Software ( Desktop ) 
 
 Link : https://github.com/walwalwalides/Chedly/releases/download/V1.0.0/Chedly.apk
 
