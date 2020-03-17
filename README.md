@@ -1,4 +1,4 @@
-# ArPoetry
+# ArPoetry (الشعر العربي)
 Collection of Arabic Poetry Books  | DESKTOP
 
 ![Platforms](https://img.shields.io/badge/Supported%20platforms-Win32%20and%20Win64-red.svg)
