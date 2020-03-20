@@ -69,8 +69,11 @@ Principal Software Benefits:
 Link : https://github.com/walwalwalides/ArPoetry/releases/download/V1.0.1/ArPoetry__Setup.exe
 
 ### Demo
-How to read sounds 
+How to Read Poetry 
 [Youtub Video] : https://www.youtube.com/watch?v=8ykRAamahQc
+
+How to Add Poet 
+[Youtub Video] : https://www.youtube.com/watch?v=IWNc939dVUg
 
 # If You Want To Donate!
 
