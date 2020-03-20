@@ -66,7 +66,7 @@ Principal Software Benefits:
 
 ### Install Software ( Desktop ) 
 
-Link : https://github.com/walwalwalides/ArPoetry/releases/download/V1.0.2/ArPoetry__Setup.exe
+Link : https://github.com/walwalwalides/ArPoetry/releases/download/V1.0.1/ArPoetry__Setup.exe
 
 ### Demo
 How to read sounds 
