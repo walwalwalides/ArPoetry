@@ -49,6 +49,8 @@ Principal Software Benefits:
       - Create a thumbnail.
       
       - Order poetries by country.
+      
+      - Choose Display Mode. 
 
     
 
