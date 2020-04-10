@@ -4,9 +4,7 @@ A Collection of Arabic Poetry Books  | DESKTOP
 ![Platforms](https://img.shields.io/badge/Supported%20platforms-Win32%20and%20Win64-red.svg)
 ![GitHub](https://img.shields.io/github/license/walwalwalides/ArPoetry)
 
-![Platform](https://img.shields.io/badge/delphi->%3D_2010-glue)
 ![GitHub last commit](https://img.shields.io/github/last-commit/walwalwalides/ArPoetry)
-
 [![GitHub stars](https://img.shields.io/github/stars/walwalwalides/ArPoetry)](https://github.com/walwalwalides/ArPoetry/stargazers)
 
 
